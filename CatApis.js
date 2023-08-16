@@ -33,5 +33,5 @@ app.get('/textlist', (req, res) => {
     });
 }
 
-module.exports =
-    getCatFacts;
+module.exports ={
+    getCatFacts};
